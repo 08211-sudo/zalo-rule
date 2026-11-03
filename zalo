@@ -1,0 +1,20 @@
+# ========== Zalo 核心通信 ==========
+DOMAIN-SUFFIX,zaloapp.com
+DOMAIN-SUFFIX,zalo.me
+DOMAIN-SUFFIX,zadn.vn
+DOMAIN-SUFFIX,zalo.video
+DOMAIN-SUFFIX,zapps.me
+
+# ========== Zalo
+DOMAIN-SUFFIX,zdn.vn
+DOMAIN-SUFFIX,zapps.vn
+
+# ========== Zalo 生态服务 ==========
+DOMAIN-SUFFIX,zalo.cloud
+DOMAIN-SUFFIX,zalo.solutions
+DOMAIN-SUFFIX,nhatkyzalo.vn
+DOMAIN-SUFFIX,vng.com.vn
+
+# ========== Zalo 广告服务 ==========
+DOMAIN-SUFFIX,adtima.vn
+DOMAIN-SUFFIX,adtimaserver.vn
